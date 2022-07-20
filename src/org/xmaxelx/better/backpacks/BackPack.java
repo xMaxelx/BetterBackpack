@@ -1,2 +1,4 @@
-package org.xmaxelx.better.backpacks;public class BackPack {
+package org.xmaxelx.better.backpacks;
+
+public class BackPack {
 }
